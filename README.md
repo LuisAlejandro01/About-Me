@@ -14,6 +14,10 @@ Soy Coordinador de TI Sr. con más de 5 años de experiencia en infraestructura 
 - **python-portafolio**: Repositorio de práctica y portafolio personal donde desarrollo programas en **Python**, organizados por nivel de dificultad: **Principiante → Intermedio → Avanzado**. Cada sección contiene 10 programas, con código comentado y explicado a detalle.
   - Tecnologías: Python 3, VSCode, Git, GitHub
   - Enlace: https://github.com/LuisAlejandro01/python-portfolio.git
+ 
+- **FullPython**: Repositorio de práctica y portafolio personal donde desarrollo programas en lenguaje Python aprendiendo a utilizarlo desde 0 conociendo los fundamentos básicos hasta los más complejos.
+  - Tecnologías: Python 3
+  - Enlace: https://github.com/LuisAlejandro01/FullPython.git
 
 ## 📫 Contacto
 - Correo: luisalejandroma773@gmail.com
